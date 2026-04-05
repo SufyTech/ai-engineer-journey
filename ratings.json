@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "Explain RLHF",
+    "score": 5,
+    "note": "Perfect"
+  },
+  {
+    "prompt": "Write poem",
+    "score": 2,
+    "note": "Too short"
+  }
+]
