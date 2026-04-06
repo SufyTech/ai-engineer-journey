@@ -19,8 +19,9 @@
 - ✅ Day 4 - Functions
 - ✅ Day 5 - Lists and dictionaries
 - ✅ Day 6 - JSON and file handling
-- ⏳ Day 7 - APIs (tomorrow)
-- ⏳ Day 8 - OpenAI API (first real AI call!)
+- ✅ Day 7 - APIs
+- ✅ Day 8 - Groq API (first real AI call!)
+- ⏳upcoming.....
 
 ## Projects coming
 

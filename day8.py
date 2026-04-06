@@ -1,4 +1,4 @@
-# day8.py - Groq API - FREE - 6 April 2026
+# day8.py - Groq API 
 from groq import Groq
 from dotenv import load_dotenv
 import os
@@ -16,10 +16,10 @@ def ask_ai(question, system="You are helpful"):
     )
     return response.choices[0].message.content
 
-# Test 1
+# Example usage
 print(ask_ai("What is RLHF in 2 sentences?"))
 
-# Test 2
+
 print(ask_ai(
     "I do RLHF at an AI company. What makes a perfect response?",
     "You are a senior AI researcher"
